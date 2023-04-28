@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108708005688",
+    "project_id": "flutter-social-login-4b0d9",
+    "storage_bucket": "flutter-social-login-4b0d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108708005688:android:5816546d6ae7051f0723cd",
+        "android_client_info": {
+          "package_name": "com.example.social_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108708005688-jla5s3i06k2p3ftqhmm822c0f46e9cqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpk-LbNGB9ehZNXygBOXcYD1hwIpxZtcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108708005688-eb2mfo05f9ha116ul149fff8dbduupss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
